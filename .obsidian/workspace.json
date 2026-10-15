@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "75dfd61ead40b91b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c01cd6f477b5e74e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f060996e2a3d6c76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2017-11-13 0830 welcome address.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2017-11-13 0830 welcome address"
+            }
+          },
+          {
+            "id": "59ae205ab2f8b5f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gotcha.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gotcha"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0a19bd9f3471e89",
+    "type": "split",
+    "children": [
+      {
+        "id": "c943864914d600bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ba59bd90e2dc764",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2a49130159c8e7d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b8a1857c6a2fb7e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "59825bf42691612e",
+    "type": "split",
+    "children": [
+      {
+        "id": "afbd8ba692a0b305",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30400afdb089d1d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gotcha.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "420a9f5aea827ac1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gotcha.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "69db8b3302db13e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6de822495ee10367",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2c62b232ac21fae9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Gotcha.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "59ae205ab2f8b5f2",
+  "lastOpenFiles": [
+    "2017-11-13 0830 welcome address.md",
+    "Gotcha.md",
+    "notes/Pi and the Bible.md",
+    "Orange Conference 01.20.11.md",
+    "notes/5prayers.md",
+    "gun_questions.md",
+    "notes/church.md",
+    "notes/2017-11-13 The Innovation Curve.md",
+    "notes/2018-01-29 Last Jedi.md",
+    "notes/2019-04-18 Proust questionnaire.md",
+    "Stephen King.md",
+    "notes/vehicle colors.md",
+    "Vehicle Colors.pdf",
+    "cop_dramas.md",
+    "Chapter-01.md",
+    "notes/1729.md",
+    "notes/Similar Movies.md",
+    "notes",
+    "notes.md",
+    "model_of_missions.md",
+    "checkout.md",
+    "oil.md",
+    "2017-05-03 marriage.md",
+    "books/Animal Farm/07.md",
+    "animal-farm/README.md",
+    "books/Animal Farm/05.md",
+    "books/Animal Farm/04.md",
+    "books/Animal Farm/03.md",
+    "books/Animal Farm",
+    "books",
+    "washing machine.txt",
+    "usingthecomputer.txt",
+    "userguide.txt",
+    "switchfoot.txt",
+    "strange1.txt",
+    "stephenking.txt"
+  ]
+}
