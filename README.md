@@ -1,1 +1,2 @@
-Look at contents of PDF folder in Dropbox
+- move EAS notes to work vault
+- add properties for jokes, funny, etc
