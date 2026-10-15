@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2017-11-13 0830 welcome address.md",
+                "file": "presentations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2017-11-13 0830 welcome address"
-            }
-          },
-          {
-            "id": "59ae205ab2f8b5f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gotcha.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gotcha"
+              "title": "presentations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gotcha.md",
+                "file": "presentations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gotcha.md",
+                "file": "presentations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -176,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gotcha.md",
+                "file": "presentations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -203,43 +188,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "59ae205ab2f8b5f2",
+  "active": "f060996e2a3d6c76",
   "lastOpenFiles": [
-    "2017-11-13 0830 welcome address.md",
-    "Gotcha.md",
-    "notes/Pi and the Bible.md",
-    "Orange Conference 01.20.11.md",
-    "notes/5prayers.md",
+    "lost questions.md",
     "gun_questions.md",
-    "notes/church.md",
-    "notes/2017-11-13 The Innovation Curve.md",
-    "notes/2018-01-29 Last Jedi.md",
-    "notes/2019-04-18 Proust questionnaire.md",
-    "Stephen King.md",
-    "notes/vehicle colors.md",
-    "Vehicle Colors.pdf",
     "cop_dramas.md",
-    "Chapter-01.md",
-    "notes/1729.md",
-    "notes/Similar Movies.md",
-    "notes",
-    "notes.md",
-    "model_of_missions.md",
+    "notes/Model of Missions.md",
+    "presentations.md",
+    "procrastination.md",
+    "switchfoot.md",
+    "notes/Strange Facts.md",
+    "productivity tips.md",
+    "Stephen King.md",
+    "README.md",
+    "notes/My Songs.md",
+    "notes/Nervous Priest.md",
+    "District Notes.md",
+    "notes/2001-09-11 timeline.md",
+    "nintendo.md",
     "checkout.md",
-    "oil.md",
-    "2017-05-03 marriage.md",
-    "books/Animal Farm/07.md",
-    "animal-farm/README.md",
-    "books/Animal Farm/05.md",
-    "books/Animal Farm/04.md",
-    "books/Animal Farm/03.md",
+    "notes/2013-08-14 Wedding Renewal.md",
+    "notes/Signoffs for Letters and Emails.md",
+    "notes/Retha Pittman.md",
+    "notes/oil.md",
+    "notes/640k.md",
+    "notes/2017-09-05 Celebration of Discipline.md",
+    "notes/2017-05-03 marriage.md",
+    "notes/Mississippi Mission Trip After Hurricane Katrina.md",
+    "notes/funny tweets.md",
+    "EAS",
+    "Vehicle Colors.pdf",
+    "notes",
     "books/Animal Farm",
     "books",
     "washing machine.txt",
     "usingthecomputer.txt",
     "userguide.txt",
     "switchfoot.txt",
-    "strange1.txt",
-    "stephenking.txt"
+    "strange1.txt"
   ]
 }

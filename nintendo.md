@@ -1,1 +1,0 @@
-Link to this image: http://www.zipperfish.com/free/quizimages/nes-award3.jpgACTUAL CODE: <a href="http://www.zipperfish.com" target="_blank"><img src="http://www.zipperfish.com/free/quizimages/nes-award3.jpg" width="401" height="208" border="0"></a>
