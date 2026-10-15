@@ -1,2 +1,0 @@
-- move EAS notes to work vault
-- add properties for jokes, funny, etc

@@ -1,7 +1,9 @@
 A Quarter Of You Will Read This Story Later
 http://www.kwtx.com/home/headlines/5166727.html
 
-(January 12, 2007)�It took them long enough to figure this out, but researchers say procrastination in society is getting worse.
+January 12, 2007
+
+It took them long enough to figure this out, but researchers say procrastination in society is getting worse.
 
 After ten years of research, a Canadian industrial psychologist has found that not only is procrastination on the rise, it makes people poorer, fatter and unhappier.
 

@@ -1,0 +1,11 @@
+Top 11 Worst Jeopardy Categories
+- German euphenisms for sex
+- Wacko Jacko
+- Love Stories Starring Powers Boothe
+
+Top 11 Lamest Super Hero Names/Powers
+- ability to levitate styrofoam
+- ability to estimate weight of cheese
+- Mr. Really-Cheesed-Off
+- Captain Lyposuction
+- ability to communicate with sea horses

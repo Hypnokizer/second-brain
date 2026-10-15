@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c01cd6f477b5e74e",
+        "id": "a41b7fe648c68fb5",
         "type": "tabs",
         "children": [
           {
-            "id": "f060996e2a3d6c76",
+            "id": "ffb1a40f2a5b6679",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "presentations.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "presentations"
+              "title": "New tab"
             }
           }
         ]
@@ -41,9 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -188,19 +182,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "f060996e2a3d6c76",
+  "active": "2ba59bd90e2dc764",
   "lastOpenFiles": [
-    "lost questions.md",
-    "gun_questions.md",
-    "cop_dramas.md",
+    "notes/switchfoot.md",
+    "README.md",
+    "notes/Stephen King.md",
+    "notes/10 Things I've Learned From Cop Dramas.md",
+    "notes/Gun Control.md",
+    "notes/procrastination.md",
+    "notes/Powerpoint Presentations.md",
+    "notes/lost questions.md",
+    "Notes.md",
+    "notes/Lists.md",
+    "notes/2006-03-06 Randy Lucas email.md",
+    "~$restaurants.xlsx",
+    "~$ndyemail.rtf",
+    "notes/2005-05-10 Letter to Mom.md",
+    "notes/1729.md",
+    "~$MOM.RTF",
+    "~$1729.rtf",
     "notes/Model of Missions.md",
-    "presentations.md",
-    "procrastination.md",
-    "switchfoot.md",
     "notes/Strange Facts.md",
     "productivity tips.md",
-    "Stephen King.md",
-    "README.md",
     "notes/My Songs.md",
     "notes/Nervous Priest.md",
     "District Notes.md",
@@ -211,20 +214,11 @@
     "notes/Signoffs for Letters and Emails.md",
     "notes/Retha Pittman.md",
     "notes/oil.md",
-    "notes/640k.md",
-    "notes/2017-09-05 Celebration of Discipline.md",
-    "notes/2017-05-03 marriage.md",
-    "notes/Mississippi Mission Trip After Hurricane Katrina.md",
-    "notes/funny tweets.md",
     "EAS",
     "Vehicle Colors.pdf",
     "notes",
     "books/Animal Farm",
     "books",
-    "washing machine.txt",
-    "usingthecomputer.txt",
-    "userguide.txt",
-    "switchfoot.txt",
-    "strange1.txt"
+    "washing machine.txt"
   ]
 }
